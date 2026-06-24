@@ -6,8 +6,8 @@
     "currency": "UAH",
     "deleted_at": null,
     "discount": 0,
-    "email": "valiksulhik2005@gmail.com",
-    "full_name": "Баланович Ірина Миколаївна",
+    "email": "valik@gmail.com",
+    "full_name": "Ім'я Прізвище",
     "has_duplicates": 0,
     "id": 16029,
     "image": null,
@@ -15,7 +15,7 @@
     "note": null,
     "orders_count": 1,
     "orders_sum": "825.00",
-    "phone": "+380684943263",
+    "phone": "+380666666666",
     "picture": null,
     "updated_at": "2025-04-29T19:39:43.000000Z"
   },
@@ -76,7 +76,7 @@
     "id": 16667,
     "order_id": 19224,
     "updated_at": "2025-04-29T19:39:43.000000Z",
-    "utm_campaign": "shopping_pmax_chocolate_test_high_profit",
+    "utm_campaign": "shopping_pmax",
     "utm_content": "1003",
     "utm_medium": "cpc",
     "utm_source": "google",
@@ -99,13 +99,13 @@
       "expense_type_id": null,
       "fiscal_result": {
         "amount": 825,
-        "fiscal_code": "Jj3UzlGiPf0",
-        "fiscal_url": "https://check.checkbox.ua/7f2554f8-9ab4-4a81-87c7-9bf85eae57aa",
+        "fiscal_code": "Jj3Uzl6666",
+        "fiscal_url": "https://check.checkbox.ua/7f2554",
         "payment_cash": false,
         "payment_name": "Платіж через інтегратора LiqPay",
         "payment_type": "full",
-        "url": "https://cabinet.tax.gov.ua/cashregs/check?id=Jj3UzlGiPf0&date=20250429&time=22%3A59%3A13&fn=4001071170&sm=825.00&mac=1db0759c8f2c515138b9bf49dc127896c19348f4198f08687668d69b1a45743b",
-        "uuid": "7f2554f8-9ab4-4a81-87c7-9bf85eae57aa"
+        "url": "",
+        "uuid": "7f2554"
       },
       "fiscal_status": "done",
       "id": 35458,
@@ -131,7 +131,7 @@
       "id": 60232,
       "individual_discount": 0,
       "loyalty_discount": 0,
-      "name": "Сублімована полуниця в молочному шоколаді, 50г, 1 пак.",
+      "name": "молочн шоколад",
       "offer": {
         "barcode": null,
         "created_at": "2024-10-09T08:10:46.000000Z",
@@ -153,7 +153,7 @@
         "width": null
       },
       "picture": {
-        "thumbnail": "https://vitberry-crm.api.keycrm.app/file-storage/remote?url=https%3A%2F%2Fvitberry.com.ua%2Fcontent%2Fimages%2F41%2Fpolunytsia-sublimovana-v-molochnomu-shokoladi-25925501274567_%2Bef86014ed5.jpg"
+        "thumbnail": ""
       },
       "price": 165,
       "price_sold": 165,
@@ -174,11 +174,11 @@
         "address_id": null,
         "created_at": "2024-01-03T08:43:19.000000Z",
         "deleted_at": null,
-        "description": "Готовая продукция",
+        "description": "",
         "id": 1,
         "is_active": true,
         "is_default": true,
-        "name": "Склад готовой продукции",
+        "name": "Склад",
         "updated_at": "2024-01-31T08:32:47.000000Z"
       }
     }
@@ -221,7 +221,7 @@
     "id": 1,
     "is_active": true,
     "is_default": true,
-    "name": "Склад готовой продукции",
+    "name": "Склад",
     "updated_at": "2024-01-31T08:32:47.000000Z"
   },
   "wrap_price": null
